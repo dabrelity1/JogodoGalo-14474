@@ -1,6 +1,4 @@
-Jogo do Galo (Tic Tac Toe) - Daniel Silva
-This is a simple implementation of the classic game "Jogo do Galo" (Tic Tac Toe) created by Daniel Silva. The game is built using HTML, CSS, and JavaScript.
-
+Jogo do Galo - Daniel Silva
 
 Descrição:
 
